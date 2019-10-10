@@ -1,2 +1,2 @@
 # Assignment-of-CSSE7023
-The solution of CSSE7023 Advanced Software Engineering(Based on Java)
+The "spac-accessible.pdf" file is description of the task of assignment1
